@@ -19,7 +19,7 @@
   
 <!-- Author: -->
 <div align="center">
-  <b>Developer: <a target="_blank" href="https://github.com/ShisheerKaushik24">¹Shisheer S Kaushik</a></b>
+  <b>Developer: <a target="_blank" href="https://github.com/sakthiharish05">Sakthi Harish</a></b>
 <br>
 </div>
 
@@ -122,6 +122,6 @@ This work is licensed under a [MIT License](LICENSE) license.
 
 <hr>
 
-Created and maintained by [@Shisheer S Kaushik][1].
+Created and maintained by [@Sakthi_Harish][1].
 
-[1]: https://github.com/ShisheerKauhik24
+[1]:https://github.com/sakthiharish05
